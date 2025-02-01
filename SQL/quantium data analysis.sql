@@ -429,22 +429,3 @@ from
 	cust_behavior as cb
 	inner join transactions as t on t.lylty_card_num = cb.lylty_card_num
 group by cb.lifestage,cb.customer_segment;
-
-
-
-
-
-
-
-
-
-
-
-									---------advanced---------
---									Customer Behavior Analysis
---1)What percentage of total sales revenue is contributed by the top 10% of customers (by spending)?
-
-
-
-
-
