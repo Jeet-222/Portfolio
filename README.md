@@ -6,7 +6,6 @@ Welcome to my **GitHub portfolio!** I'm passionate about turning raw data into m
 - **📂 SQL** – Complex queries, data cleaning, and analysis.  
 - **🐍 Python** – Data wrangling, visualization, and automation.  
 - **📊 Excel** – Advanced formulas, pivot tables, and dashboards.  
-- **📈 Power BI** – Interactive dashboards and business intelligence reports.  
 
 ## 📌 Skills & Tools  
 - **Data Analysis** (SQL, Pandas, NumPy)  
